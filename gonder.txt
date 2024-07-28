@@ -1,3 +1,5 @@
 ilk commit yazildi.
 
 ikinci commit yazildi
+
+3. commi yazildi
